@@ -16,7 +16,7 @@
   "dependencies": {
     "@dcl/ecs-scene-utils": "^1.7.5",
     "decentraland-ecs-utils": "^1.5.2",
-    "verser-dcl-sdk": "^1.0.10"
+    "verser-dcl-sdk": "^1.0.12"
   },
   "bundledDependencies": [
     "@dcl/ecs-scene-utils"
