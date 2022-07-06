@@ -3,7 +3,7 @@ import { BaseScene } from "./gameObjects/baseScene";
 import { VideoScreen } from "./gameObjects/video";
 import { CreateRoom1 } from "./scenes/room1";
 import { CreateRoom2 } from "./scenes/room2";
-//import {addVerseEventListeners} from "./utils";
+
 import addVerseEventListeners from "../node_modules/verser-dcl-sdk/index";
 // Create an entity for the main scene model
 //new BaseScene();
